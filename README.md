@@ -16,7 +16,7 @@ This repository includes:
 
 ## Key Features
 
-- Implementation of Separation Index and Smoothness Index found at [Arhosseini77's data_complexity_measures GitHub repository](https://github.com/Arhosseini77/data_complexity_measures).
+- Implementation of Separation Index and Smoothness Index found at [data_complexity_measures GitHub repository](https://github.com/Arhosseini77/data_complexity_measures).
 
 ## Environment and Dependencies
 
