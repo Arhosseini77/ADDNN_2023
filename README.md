@@ -1,7 +1,21 @@
+<br/>
+<p align="center">
+  <h3 align="center">Analysis and Design of Deep Neural Networks - Homework Submission</h3>
 
-# Analysis and Design of Deep Neural Networks - Homework Submission
+  <p align="center">
+    Analyse and Design Deep Neural Network, Dr.Kalhor, University of Tehran
+    <br/>
+    <br/>
+  </p>
+</p>
+
+![Contributors](https://img.shields.io/github/contributors/Arhosseini77/ADDNN_2023?color=dark-green) ![Stargazers](https://img.shields.io/github/stars/Arhosseini77/ADDNN_2023?style=social) ![Issues](https://img.shields.io/github/issues/Arhosseini77/ADDNN_2023) ![License](https://img.shields.io/github/license/Arhosseini77/ADDNN_2023) 
+
+## About The Project
 
 This repository contains homework submissions for the course "Analysis and Design of Deep Neural Networks," instructed by Dr. Ahmad Kalhor and Dr. Babak Arabi Najar. 
+
+
 ## Course Overview
 
 The course delves into the intricacies of designing and analyzing deep neural networks, emphasizing two key concepts:
