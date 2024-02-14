@@ -23,12 +23,12 @@ The course delves into the intricacies of designing and analyzing deep neural ne
 - **Smoothness Index (SMI)**
 - **Similiraty Learning**
 
-## Repository Contents
+## Included in this repository:
+- Code implementations for all homework assignments.
+- Detailed reports for each homework assignment.
+- Descriptive files providing comprehensive instructions and guidelines for each homework assignment.
 
-##### **Included in this repository:**
-    - Code implementations for all homework assignments.
-    - Detailed reports for each homework assignment.
-    - Descriptive files providing comprehensive instructions and guidelines for each homework assignment.
+## Repository Contents
 
 - **Homework 1: Data Evaluation - Subset Selection and Feature Selection**
     - Techniques for evaluating and selecting subsets of data
@@ -62,6 +62,7 @@ The course delves into the intricacies of designing and analyzing deep neural ne
         - Fisher Discriminant Contrastive Loss (FDT) 
         - Fisher Discriminant triplet Loss (FCT)
         - Learning from relative comparisons between data points
+          
 
 ## Key Features
 
