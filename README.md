@@ -20,11 +20,10 @@ This repository contains homework submissions for the course "Analysis and Desig
 
 The course delves into the intricacies of designing and analyzing deep neural networks, emphasizing two key concepts:
 - **Separation Index (SI)** 
-- **Smoothness Index (SMI)** 
+- **Smoothness Index (SMI)**
+- **Similiraty Learning**
 
 ## Repository Contents
-
-Sure, here are the headings with bullet points:
 
 - **Homework 1: Data Evaluation - Subset Selection and Feature Selection**
     - Techniques for evaluating and selecting subsets of data
