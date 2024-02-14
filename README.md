@@ -34,7 +34,7 @@ In this part, we explore model compression techniques to reduce the size of deep
 
 This final section covers metric learning, focusing on triplet loss, contrastive loss,  Fisher Discriminant Contrastive Loss (FDT) loss, and  Fisher Discriminant triplet Loss(FCT). These techniques are essential for tasks that involve learning from relative comparisons between data points rather than absolute labels.
 
-This repository includes:
+###### This repository includes:
 - Code implementations of homework assignments.
 - Jupyter notebooks with detailed explanations and results.
 
