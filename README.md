@@ -9,7 +9,16 @@
   </p>
 </p>
 
-![Contributors](https://img.shields.io/github/contributors/Arhosseini77/ADDNN_2023?color=dark-green) ![Stargazers](https://img.shields.io/github/stars/Arhosseini77/ADDNN_2023?style=social) ![Issues](https://img.shields.io/github/issues/Arhosseini77/ADDNN_2023) 
+
+<br/>
+<div align="center">
+  <img src="https://img.shields.io/github/contributors/Arhosseini77/ADDNN_2023?color=dark-green" alt="Contributors"> 
+  <img src="https://img.shields.io/github/stars/Arhosseini77/ADDNN_2023?style=social" alt="Stargazers"> 
+  <img src="https://img.shields.io/github/issues/Arhosseini77/ADDNN_2023" alt="Issues"> 
+
+  </a>
+</div>
+<br/>
 
 ## About 
 
