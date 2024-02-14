@@ -45,7 +45,7 @@ Sure, here are the headings with bullet points:
 - **Homework 3: Layer-wise Learning - Image Segmentation Network**
     - Implementation and training of segmentation models
     - Train a model with Layer-wise Learning
-    - 
+      
 - **Homework 4: Model Compression**
     - Exploration of model compression techniques
         - Reducing deep learning model size without significant performance loss
