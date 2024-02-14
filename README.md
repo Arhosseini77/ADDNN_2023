@@ -23,10 +23,6 @@ The course delves into the intricacies of designing and analyzing deep neural ne
 - **Smoothness Index (SMI)**
 - **Similiraty Learning**
 
-## Included in this repository:
-- Code implementations for all homework assignments.
-- Detailed reports for each homework assignment.
-- Descriptive files providing comprehensive instructions and guidelines for each homework assignment.
 
 ## Repository Contents
 
@@ -63,6 +59,11 @@ The course delves into the intricacies of designing and analyzing deep neural ne
         - Fisher Discriminant triplet Loss (FCT)
         - Learning from relative comparisons between data points
           
+## Included in this repository:
+- Code implementations for all homework assignments.
+- Detailed reports for each homework assignment.
+- Descriptive files providing comprehensive instructions and guidelines for each homework assignment.
+
 
 ## Key Features
 
