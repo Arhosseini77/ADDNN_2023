@@ -31,6 +31,7 @@ The course delves into the intricacies of designing and analyzing deep neural ne
 - **Separation Index (SI)** 
 - **Smoothness Index (SMI)**
 - **Similiraty Learning**
+- 
 
 
 ## Contents
