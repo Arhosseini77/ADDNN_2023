@@ -65,7 +65,7 @@ The course delves into the intricacies of designing and analyzing deep neural ne
     - Coverage of metric learning techniques
         - Triplet loss
         - Contrastive loss
-        - Fisher Discriminant Contrastive Loss (FDT) 
+        - [Fisher Discriminant Contrastive Loss (FDT)](https://arxiv.org/abs/2004.04674)
         - Fisher Discriminant triplet Loss (FCT)
         - Learning from relative comparisons between data points
           
