@@ -50,7 +50,7 @@ The course delves into the intricacies of designing and analyzing deep neural ne
 
 - **Homework Extra: Feature Representation**
     - Additional assignment focusing on feature representation techniques
-        - Examples on enhancing model learning and prediction accuracy through effective feature representation
+        - Examples of enhancing model learning and prediction accuracy through effective feature representation
 
 - **Homework 3: Layer-wise Learning - Image Segmentation Network**
     - Implementation and training of segmentation models
