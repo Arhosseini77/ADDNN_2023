@@ -66,7 +66,7 @@ The course delves into the intricacies of designing and analyzing deep neural ne
         - Triplet loss
         - Contrastive loss
         - [Fisher Discriminant Contrastive Loss (FDT)](https://arxiv.org/abs/2004.04674)
-        - Fisher Discriminant triplet Loss (FCT)
+        - [Fisher Discriminant triplet Loss (FCT)](https://arxiv.org/abs/2004.04674)
         - Learning from relative comparisons between data points
           
 ## Included in this repository:
