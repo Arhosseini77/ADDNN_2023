@@ -33,7 +33,7 @@ The course delves into the intricacies of designing and analyzing deep neural ne
 - **Similiraty Learning**
 
 
-## Repository Contents
+## Contents
 
 - **Homework 1: Data Evaluation - Subset Selection and Feature Selection**
     - Techniques for evaluating and selecting subsets of data
