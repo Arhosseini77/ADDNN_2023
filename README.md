@@ -22,7 +22,7 @@
 
 ## About 
 
-This repository contains homework submissions for the course "Analysis and Design of Deep Neural Networks," instructed by Dr. Ahmad Kalhor and Dr. Babak Arabi Najar. 
+This repository contains homework submissions for the course "Analysis and Design of Deep Neural Networks," instructed by Dr. Ahmad Kalhor and Dr. Babak Nadjar Araabi. 
 
 
 ## Course Overview
@@ -86,7 +86,7 @@ The course delves into the intricacies of designing and analyzing deep neural ne
 
 ## Acknowledgments
 
-Special thanks to Dr. Ahmad Kalhor and Dr. Babak Arabi Najar for their invaluable guidance and instruction throughout the course.
+Special thanks to Dr. Ahmad Kalhor and Dr. Babak Nadjar Araabi for their invaluable guidance and instruction throughout the course.
 
 ---
 
