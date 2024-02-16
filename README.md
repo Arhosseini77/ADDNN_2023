@@ -93,10 +93,6 @@ conda env create -f env_addnn.yml
 ```bash
 conda activate torch2
 ```
-
-
-
-
 ## Acknowledgments
 
 Special thanks to Dr. Ahmad Kalhor and Dr. Babak Nadjar Araabi for their invaluable guidance and instruction throughout the course.
