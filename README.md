@@ -90,6 +90,9 @@ The course delves into the intricacies of designing and analyzing deep neural ne
 conda env create -f env_addnn.yml
 ```
 - Activate the created Conda environment:
+```bash
+conda activate env_addnn
+```
 
 
 
