@@ -82,7 +82,7 @@ The course delves into the intricacies of designing and analyzing deep neural ne
 ## Environment and Dependencies
 
 - **Python Version:** 3.10
-- **PyTorch Version:** 2.1.0+cuda 12.1
+- **PyTorch Version:** 2.1.1+cuda 11.8
 
 
 ## Acknowledgments
