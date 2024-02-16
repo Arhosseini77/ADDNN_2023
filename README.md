@@ -85,6 +85,7 @@ The course delves into the intricacies of designing and analyzing deep neural ne
 - **PyTorch Version:** 2.1.1+cuda 11.8
 - 
 #### Setting up Conda Environment
+Create the Conda environment using the provided YAML file (`env_addnn.yml`):
 
 
 ## Acknowledgments
