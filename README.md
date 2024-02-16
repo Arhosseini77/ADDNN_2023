@@ -82,8 +82,7 @@ The course delves into the intricacies of designing and analyzing deep neural ne
 ## Environment and Dependencies
 
 - **Python Version:** 3.10
-- **PyTorch Version:** 2.1.1+cuda 11.8
-- 
+- **PyTorch Version:** 2.1.1+cuda 11.8 
 ### Setting up Conda Environment
 - Create the Conda environment using the provided YML file (`env_addnn.yml`):
 ```bash
