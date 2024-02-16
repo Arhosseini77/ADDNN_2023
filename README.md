@@ -91,7 +91,7 @@ conda env create -f env_addnn.yml
 ```
 - Activate the created Conda environment:
 ```bash
-conda activate env_addnn
+conda activate torch2
 ```
 
 
