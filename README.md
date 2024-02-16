@@ -8,7 +8,6 @@
     <br/>
   </p>
 </p>
-
 <br/>
 <div align="center">
   <img src="https://img.shields.io/github/contributors/Arhosseini77/ADDNN_2023?color=dark-green" alt="Contributors"> 
