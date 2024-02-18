@@ -34,7 +34,7 @@ The course delves into the intricacies of designing and analyzing deep neural ne
 
 ## Contents
 
-- **Homework 1: Data Evaluation - Subset Selection and Feature Selection**
+- [Homework 1: Data Evaluation - Subset Selection and Feature Selection](https://github.com/Arhosseini77/ADDNN_2023/tree/main/HW1)
     - Techniques for evaluating and selecting subsets of data
         - Separation Index
         - Smoothness Index
