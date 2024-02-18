@@ -3,7 +3,7 @@
   <h3 align="center">Analysis and Design of Deep Neural Networks - Homework Submission</h3>
 
   <p align="center">
-    Analyse and Design Deep Neural Network, Dr.Kalhor and Dr. Nadjar Araabi, University of Tehran
+    Analyse and Design Deep Neural Network, Dr. Kalhor and Dr. Nadjar Araabi, University of Tehran
     <br/>
     <br/>
   </p>
