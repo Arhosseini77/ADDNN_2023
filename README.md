@@ -46,7 +46,7 @@ The course delves into the intricacies of designing and analyzing deep neural ne
         - Analyzing layer outputs
         - Understanding layer contributions to final predictions
 
-- **Homework Extra: Feature Representation**
+- [Homework Extra: Feature Representation](https://github.com/Arhosseini77/ADDNN_2023/tree/main/Extra1)
     - Additional assignment focusing on feature representation techniques
         - Examples of enhancing model learning and prediction accuracy through effective feature representation
 
