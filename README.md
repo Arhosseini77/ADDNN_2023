@@ -54,7 +54,7 @@ The course delves into the intricacies of designing and analyzing deep neural ne
     - Implementation and training of segmentation models
     - Train a model with Layer-wise Learning
       
-- **Homework 4: Model Compression**
+- [Homework 4: Model Compression](https://github.com/Arhosseini77/ADDNN_2023/tree/main/HW4)
     - Exploration of model compression techniques
         - Reducing deep learning model size without significant performance loss
         - Crucial for deployment on devices with limited computational resources
