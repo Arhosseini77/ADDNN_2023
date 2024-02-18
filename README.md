@@ -40,7 +40,7 @@ The course delves into the intricacies of designing and analyzing deep neural ne
         - Smoothness Index
     - Feature selection methods to improve model accuracy and efficiency
 
-- **Homework 2: Model and Layer Evaluation**
+- [Homework 2: Model and Layer Evaluation](https://github.com/Arhosseini77/ADDNN_2023/tree/main/HW2)
     - Evaluation of models and their layers
         - Testing model performance
         - Analyzing layer outputs
