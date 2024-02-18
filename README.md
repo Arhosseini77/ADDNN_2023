@@ -25,7 +25,7 @@ This repository contains homework submissions for the course "Analysis and Desig
 
 ## Course Overview
 
-The course explores the details of designing and analyzing deep neural networks, focusing on two main ideas:
+The course explores the details of designing and analyzing deep neural networks, focusing on three main ideas:
 - **Separation Index (SI)** 
 - **Smoothness Index (SMI)**
 - **Similiraty Learning**
