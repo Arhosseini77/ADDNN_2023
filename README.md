@@ -50,7 +50,7 @@ The course delves into the intricacies of designing and analyzing deep neural ne
     - Additional assignment focusing on feature representation techniques
         - Examples of enhancing model learning and prediction accuracy through effective feature representation
 
-- **Homework 3: Layer-wise Learning - Image Segmentation Network**
+- [Homework 3: Layer-wise Learning - Image Segmentation Network](https://github.com/Arhosseini77/ADDNN_2023/tree/main/HW3)
     - Implementation and training of segmentation models
     - Train a model with Layer-wise Learning
       
