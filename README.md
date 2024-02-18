@@ -59,7 +59,7 @@ The course delves into the intricacies of designing and analyzing deep neural ne
         - Reducing deep learning model size without significant performance loss
         - Crucial for deployment on devices with limited computational resources
 
-- **Homework 5: Metric Learning**
+- [Homework 5: Metric Learning](https://github.com/Arhosseini77/ADDNN_2023/tree/main/HW5)
     - Coverage of metric learning techniques
         - Triplet loss
         - Contrastive loss
